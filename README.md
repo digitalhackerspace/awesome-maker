@@ -7,6 +7,10 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [hackster](https://www.hackster.io/projects) - A community-driven project directory
 * [hackaday](https://hackaday.io/lists) - A community-driven project directory
 
+## Knowledge
+* [MagPI](https://www.raspberrypi.org/magpi-issues/) - A free (and official) archive of all MagPI issues as PDF
+* [Hackspace](https://hackspace.raspberrypi.org/issues) - A free (and official) archive of all Hackspace issues as PDF
+
 ## Electronics
 TODO
 
