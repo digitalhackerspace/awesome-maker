@@ -8,8 +8,12 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [hackaday](https://hackaday.io/lists) - A community-driven project directory
 
 ## Electronics
-### Arduino/ESP
-### 
+TODO
+
+## 3D Printing
+### Misc
+* [PrintaGuide](https://www.aprintapro.com/printaguide/) - A general 3D printing troubleshooting guide
+* [Simplify3D Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) - A more Simplify3D focused troubleshooting guide
 
 ## YouTube Channels
 * [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Electronic projects, reviews and tutorials
