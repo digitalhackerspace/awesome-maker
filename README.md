@@ -28,3 +28,4 @@ TODO
 * [Rui Santos](https://www.youtube.com/user/RandomNerdTutorials/) - Arduino / ESP projects and tutorials
 * [scanlime](https://www.youtube.com/user/micahjd) - Hardware reverse engineering and projects
 * [Spacehuhn](https://www.youtube.com/user/g0ldk) - Mainly Arduino projects
+* [RCLifeOn](https://www.youtube.com/user/RcLifeOnSimon) - DIY Projects with 3D Printers 
