@@ -15,6 +15,10 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 TODO
 
 ## 3D Printing
+### Models
+* [Thingiverse](https://www.thingiverse.com/) - The biggest site for 3d printable models
+* [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
+
 ### Misc
 * [PrintaGuide](https://www.aprintapro.com/printaguide/) - A general 3D printing troubleshooting guide
 * [Simplify3D Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) - A more Simplify3D focused troubleshooting guide
