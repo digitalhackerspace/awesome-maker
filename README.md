@@ -18,6 +18,10 @@ TODO
 ### Models
 * [Thingiverse](https://www.thingiverse.com/) - The biggest site for 3d printable models
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
+* [PrusaPrinters](https://www.prusaprinters.org/prints) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
+
+### Helpful Software
+* [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
 
 ### Misc
 * [PrintaGuide](https://www.aprintapro.com/printaguide/) - A general 3D printing troubleshooting guide
