@@ -33,7 +33,8 @@ TODO
 * [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ) - Electronic projects and tutorials
 * [Josef Prusa](https://www.youtube.com/channel/UCLHAxAdvAKJY0niRJZRYMvg) - The original Josef Prusa
 * [Maker's Muse](https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg) - 3D Printing and Modeling
+* [RCLifeOn](https://www.youtube.com/user/RcLifeOnSimon) - DIY Projects with 3D Printers 
 * [Rui Santos](https://www.youtube.com/user/RandomNerdTutorials/) - Arduino / ESP projects and tutorials
 * [scanlime](https://www.youtube.com/user/micahjd) - Hardware reverse engineering and projects
 * [Spacehuhn](https://www.youtube.com/user/g0ldk) - Mainly Arduino projects
-* [RCLifeOn](https://www.youtube.com/user/RcLifeOnSimon) - DIY Projects with 3D Printers 
+* [Thomas Sanladerer](https://www.youtube.com/user/ThomasSanladerer) - Mainly 3D printing, but also other videos
