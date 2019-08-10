@@ -22,6 +22,7 @@ TODO
 
 ### Helpful Software
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
+* [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser 
 
 ### Misc
 * [PrintaGuide](https://www.aprintapro.com/printaguide/) - A general 3D printing troubleshooting guide
