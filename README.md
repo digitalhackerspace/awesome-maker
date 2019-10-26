@@ -11,6 +11,10 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [MagPI](https://www.raspberrypi.org/magpi-issues/) - A free (and official) archive of all MagPI issues as PDF
 * [Hackspace](https://hackspace.raspberrypi.org/issues) - A free (and official) archive of all Hackspace issues as PDF
 
+## Buying & Selling
+* [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
+* [Crowdsupply](https://www.crowdsupply.com/) - Kickstarter for makers
+
 ## Electronics
 TODO
 
