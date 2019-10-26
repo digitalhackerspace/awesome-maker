@@ -24,6 +24,9 @@ TODO
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
 * [PrusaPrinters](https://www.prusaprinters.org/prints) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
 
+### Controlling Software
+* [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
+
 ### Helpful Software
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser 
