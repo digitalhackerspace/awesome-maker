@@ -32,6 +32,11 @@ TODO
 * [PrintaGuide](https://www.aprintapro.com/printaguide/) - A general 3D printing troubleshooting guide
 * [Simplify3D Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) - A more Simplify3D focused troubleshooting guide
 
+## CNCing
+### Controlling Software
+* [GRBLWeb](https://github.com/andrewhodel/grblweb) - A web-interface for CNC milling
+* [CNC.js](https://github.com/cncjs/cncjs) - A web-interface for CNC milling
+
 ## YouTube Channels
 * [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Electronic projects, reviews and tutorials
 * [bitluni](https://www.youtube.com/user/bitlunislab) - A wide range of electronics projects
