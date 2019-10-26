@@ -24,6 +24,9 @@ TODO
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
 * [PrusaPrinters](https://www.prusaprinters.org/prints) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
 
+### Controlling Software
+* [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
+
 ### Helpful Software
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser 
@@ -31,6 +34,11 @@ TODO
 ### Misc
 * [PrintaGuide](https://www.aprintapro.com/printaguide/) - A general 3D printing troubleshooting guide
 * [Simplify3D Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) - A more Simplify3D focused troubleshooting guide
+
+## CNCing
+### Controlling Software
+* [GRBLWeb](https://github.com/andrewhodel/grblweb) - A web-interface for CNC milling
+* [CNC.js](https://github.com/cncjs/cncjs) - A web-interface for CNC milling
 
 ## YouTube Channels
 * [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Electronic projects, reviews and tutorials
