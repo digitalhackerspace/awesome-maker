@@ -23,6 +23,7 @@ TODO
 * [Thingiverse](https://www.thingiverse.com/) - The biggest site for 3d printable models
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
 * [PrusaPrinters](https://www.prusaprinters.org/prints) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
+* [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
 
 ### Controlling Software
 * [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
