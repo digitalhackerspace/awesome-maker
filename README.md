@@ -6,17 +6,22 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Instructables](https://www.instructables.com/) - Many tutorials on nearly every topic
 * [hackster](https://www.hackster.io/projects) - A community-driven project directory
 * [hackaday](https://hackaday.io/lists) - A community-driven project directory
+* [Electromaker](https://www.electromaker.io/) - A community-driven project directory and blog posts
 
 ## Knowledge
 * [MagPI](https://www.raspberrypi.org/magpi-issues/) - A free (and official) archive of all MagPI issues as PDF
 * [Hackspace](https://hackspace.raspberrypi.org/issues) - A free (and official) archive of all Hackspace issues as PDF
+* [DIYODE](https://diyodemag.com/issues) - archive of DIYODE issues (paid)
 
 ## Buying & Selling
 * [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
 * [Crowdsupply](https://www.crowdsupply.com/) - Kickstarter for makers
+* [GroupGets](https://groupgets.com/) - Crowdfunding campaigns for bulk orders
 
 ## Electronics
-TODO
+### EDA & CAD Software
+* [KiCad](https://kicad-pcb.org/) - A free and open source cross platform electronics design automation suite
+* [Fritzing](https://fritzing.org/) - A free and open-source initiative to develop amateur or hobby CAD software for the design of electronics hardware
 
 ## 3D Printing
 ### Models
@@ -27,10 +32,12 @@ TODO
 
 ### Controlling Software
 * [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
+* [Ultimaker Cura](https://github.com/Ultimaker/Cura) - A free and open source  application to prepare 3D models for 3D printing
 
 ### Helpful Software
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
-* [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser 
+* [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser
+* [OpenSCAD](https://www.openscad.org/) - free and open source software script-only application for creating solid 3D CAD objects
 
 ### Misc
 * [PrintaGuide](https://www.aprintapro.com/printaguide/) - A general 3D printing troubleshooting guide
@@ -47,7 +54,7 @@ TODO
 * [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ) - Electronic projects and tutorials
 * [Josef Prusa](https://www.youtube.com/channel/UCLHAxAdvAKJY0niRJZRYMvg) - The original Josef Prusa
 * [Maker's Muse](https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg) - 3D Printing and Modeling
-* [RCLifeOn](https://www.youtube.com/user/RcLifeOnSimon) - DIY Projects with 3D Printers 
+* [RCLifeOn](https://www.youtube.com/user/RcLifeOnSimon) - DIY Projects with 3D Printers
 * [Rui Santos](https://www.youtube.com/user/RandomNerdTutorials/) - Arduino / ESP projects and tutorials
 * [scanlime](https://www.youtube.com/user/micahjd) - Hardware reverse engineering and projects
 * [Spacehuhn](https://www.youtube.com/user/g0ldk) - Mainly Arduino projects
