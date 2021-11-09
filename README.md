@@ -20,7 +20,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 
 ## Electronics
 ### EDA & CAD Software
-* [KiCad](https://kicad-pcb.org/) - A free and open source cross platform electronics design automation suite
+* [KiCad](https://kicad.org/) - A free and open source cross platform electronics design automation suite
 * [Fritzing](https://fritzing.org/) - A free and open-source initiative to develop amateur or hobby CAD software for the design of electronics hardware
 
 ## 3D Printing
