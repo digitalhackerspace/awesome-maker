@@ -20,8 +20,9 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 
 ## Electronics
 ### EDA & CAD Software
-* [KiCad](https://kicad.org/) - A free and open source cross platform electronics design automation suite
+* [FreeCAD](https://www.freecadweb.org/) - A FOSS multiplatform 3D parametric modeler
 * [Fritzing](https://fritzing.org/) - A free and open-source initiative to develop amateur or hobby CAD software for the design of electronics hardware
+* [KiCad](https://kicad.org/) - A free and open source cross platform electronics design automation suite
 
 ## 3D Printing
 ### Models
@@ -50,6 +51,8 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 
 ## YouTube Channels
 * [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Electronic projects, reviews and tutorials
+* [Ben Eater](https://www.youtube.com/c/BenEater/) - Electronics & Computer Theory
+* [bigclive](https://www.youtube.com/c/Bigclive) - Electronic projects & reverse engineering
 * [bitluni](https://www.youtube.com/user/bitlunislab) - A wide range of electronics projects
 * [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ) - Electronic projects and tutorials
 * [Josef Prusa](https://www.youtube.com/channel/UCLHAxAdvAKJY0niRJZRYMvg) - The original Josef Prusa
