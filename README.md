@@ -31,9 +31,10 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Printables (formerly PrusaPrinters)](https://www.printables.com/) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
 * [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
 
-### Controlling Software
+### Slicer & Control Software
 * [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
-* [Ultimaker Cura](https://github.com/Ultimaker/Cura) - A free and open source  application to prepare 3D models for 3D printing
+* [Ultimaker Cura](https://github.com/Ultimaker/Cura) - A free and open source  slicer application to prepare 3D models for 3D printing
+* [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - A free and open source  slicer application to prepare 3D models for 3D printing by Prusa, fully compatible with printers from other manufacturers.
 
 ### Helpful Software
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
