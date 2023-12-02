@@ -28,7 +28,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 ### Models
 * [Thingiverse](https://www.thingiverse.com/) - The biggest site for 3d printable models
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
-* [PrusaPrinters](https://www.prusaprinters.org/prints) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
+* [Printables (formerly PrusaPrinters)](https://www.printables.com/) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
 * [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
 
 ### Controlling Software
