@@ -29,7 +29,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Thingiverse](https://www.thingiverse.com/) - The biggest site for 3d printable models
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
 * [Printables (formerly PrusaPrinters)](https://www.printables.com/) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
-* [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
+* [yeggi](https://www.yeggi.com/) - A meta search engine for 3d-printable models.
 
 ### Slicer & Control Software
 * [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
@@ -40,10 +40,12 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser
 * [OpenSCAD](https://www.openscad.org/) - free and open source software script-only application for creating solid 3D CAD objects
+* [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
 
-### Misc
-* [PrintaGuide](https://www.aprintapro.com/printaguide/) - A general 3D printing troubleshooting guide
+### Troubleshooting
+* [Matterhackers Troubleshooting Guide](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide) - A general 3D printing troubleshooting guide
 * [Simplify3D Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) - A more Simplify3D focused troubleshooting guide
+* [Prusa3D Troubleshooting Guide](https://help.prusa3d.com/category/print-quality-troubleshooting_225) - A collection of in-depth troubleshooting help articles. Focused on Prusa Printers, but containing general knowledge & tips valid for all printers.
 
 ## CNCing
 ### Controlling Software
