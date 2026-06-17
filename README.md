@@ -36,12 +36,14 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
 * [Ultimaker Cura](https://github.com/Ultimaker/Cura) - A free and open source  slicer application to prepare 3D models for 3D printing
 * [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - A free and open source  slicer application to prepare 3D models for 3D printing by Prusa, fully compatible with printers from other manufacturers.
+* [SimplyPrint](https://simplyprint.io/) - A cloud-based platform for remote monitoring, management, and automation of 3D printers.
 
 ### Helpful Software
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser
 * [OpenSCAD](https://www.openscad.org/) - free and open source software script-only application for creating solid 3D CAD objects
 * [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
+* [Open Filament Database](https://github.com/OpenFilamentCollective/open-filament-database) - A community-driven open database of 3D printing filament materials and their properties.
 
 ### Troubleshooting
 * [Matterhackers Troubleshooting Guide](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide) - A general 3D printing troubleshooting guide
