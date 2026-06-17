@@ -25,6 +25,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Fritzing](https://fritzing.org/) - A free and open-source initiative to develop amateur or hobby CAD software for the design of electronics hardware
 * [KiCad](https://kicad.org/) - A free and open source cross platform electronics design automation suite
 
+- [Plywood Cut Optimizer](https://tools.modologystudios.com) - Free browser tool: enter your cut list, get an optimized sheet layout with waste percentage. No signup, no download. Works for 4×8, 4×10, and custom sheet sizes.
 ## 3D Printing
 ### Models
 * [Thingiverse](https://www.thingiverse.com/) - The biggest site for 3d printable models
