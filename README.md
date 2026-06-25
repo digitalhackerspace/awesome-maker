@@ -66,3 +66,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [scanlime](https://www.youtube.com/user/micahjd) - Hardware reverse engineering and projects
 * [Spacehuhn](https://www.youtube.com/user/g0ldk) - Mainly Arduino projects
 * [Thomas Sanladerer](https://www.youtube.com/user/ThomasSanladerer) - Mainly 3D printing, but also other videos
+
+
+## AI Tools
+- [MetaVision Text-to-CNC](https://github.com/adminmetavision-rgb/text-to-cnc-agent) - AI agent: text prompt → 3D model → G-code in 60s. MCP/A2A compatible, x402 micropayments.
