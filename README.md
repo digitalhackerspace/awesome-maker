@@ -13,6 +13,11 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Hackspace](https://hackspace.raspberrypi.org/issues) - A free (and official) archive of all Hackspace issues as PDF
 * [DIYODE](https://diyodemag.com/issues) - archive of DIYODE issues (paid)
 * [Woodwiki](https://www.woodwiki.org/) - Free woodworking education wiki: ~230 guides on hand tools, power tools, joinery, finishing, and wood species. Evidence-driven, no affiliate links, maintained by a Los Angeles cabinet shop.
+* [Pressure Washer Fix](https://pressurewasherfix.com/) - Free troubleshooting guides for common pressure washer problems
+* [WattsCalc](https://wattscalc.com/) - Free wattage and electricity cost calculator for home DIY and appliance projects
+* [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com/) - Free calculator for embroidery job pricing
+* [Image to Crochet Pattern](https://imagetocrochetpattern.com/) - Free tool that converts images into crochet patterns
+* [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) - Free calculator for lawn mowing cost estimates
 
 ## Buying & Selling
 * [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
