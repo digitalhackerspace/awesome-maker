@@ -53,6 +53,9 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [GRBLWeb](https://github.com/andrewhodel/grblweb) - A web-interface for CNC milling
 * [CNC.js](https://github.com/cncjs/cncjs) - A web-interface for CNC milling
 
+### Design & Conversion Software
+* [pic2svg](https://pic2svg.com/) - Raster-to-vector converter and deterministic tracer; outputs real SVG/DXF vector paths for laser cutting and CNC (hosted, freemium).
+
 ## YouTube Channels
 * [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Electronic projects, reviews and tutorials
 * [Ben Eater](https://www.youtube.com/c/BenEater/) - Electronics & Computer Theory
