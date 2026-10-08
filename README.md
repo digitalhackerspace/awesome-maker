@@ -30,6 +30,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Thingiverse](https://www.thingiverse.com/) - The biggest site for 3d printable models
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
 * [Printables (formerly PrusaPrinters)](https://www.printables.com/) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
+* [CADProps STEP Models](https://github.com/cadprobs-a11y/cadprops-step-models) - Free sample CAD parts in STEP, STL, and IGES, with previews, inspection guides, and per-model license notes.
 * [yeggi](https://www.yeggi.com/) - A meta search engine for 3d-printable models.
 
 ### Slicer & Control Software
