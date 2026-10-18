@@ -47,6 +47,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Matterhackers Troubleshooting Guide](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide) - A general 3D printing troubleshooting guide
 * [Simplify3D Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) - A more Simplify3D focused troubleshooting guide
 * [Prusa3D Troubleshooting Guide](https://help.prusa3d.com/category/print-quality-troubleshooting_225) - A collection of in-depth troubleshooting help articles. Focused on Prusa Printers, but containing general knowledge & tips valid for all printers.
+* [MeshNomics STL Repair](https://www.meshnomics.com/repair) - Free browser-based tool that repairs STL, 3MF and OBJ files locally and lists what it can't fix
 
 ## CNCing
 ### Controlling Software
