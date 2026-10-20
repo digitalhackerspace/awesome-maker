@@ -13,6 +13,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Hackspace](https://hackspace.raspberrypi.org/issues) - A free (and official) archive of all Hackspace issues as PDF
 * [DIYODE](https://diyodemag.com/issues) - archive of DIYODE issues (paid)
 * [Woodwiki](https://www.woodwiki.org/) - Free woodworking education wiki: ~230 guides on hand tools, power tools, joinery, finishing, and wood species. Evidence-driven, no affiliate links, maintained by a Los Angeles cabinet shop.
+* [SolidCraft CAD (unofficial guide)](https://solidcraftcad.com/) - Unofficial guide to SolidCraft, the open-source parametric 3D CAD app in Rust: run it in your browser, download for Win/Mac/Linux, connect AI via MCP.
 
 ## Buying & Selling
 * [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
