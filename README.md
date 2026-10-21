@@ -31,6 +31,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
 * [Printables (formerly PrusaPrinters)](https://www.printables.com/) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
 * [yeggi](https://www.yeggi.com/) - A meta search engine for 3d-printable models.
+* [PrintWhat](https://printwhat.app/search) - Search multiple original 3D-model sources and keep source and license context visible; includes routes for replacement parts and models that need modification.
 
 ### Slicer & Control Software
 * [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
