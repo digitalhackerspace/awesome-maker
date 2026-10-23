@@ -13,6 +13,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Hackspace](https://hackspace.raspberrypi.org/issues) - A free (and official) archive of all Hackspace issues as PDF
 * [DIYODE](https://diyodemag.com/issues) - archive of DIYODE issues (paid)
 * [Woodwiki](https://www.woodwiki.org/) - Free woodworking education wiki: ~230 guides on hand tools, power tools, joinery, finishing, and wood species. Evidence-driven, no affiliate links, maintained by a Los Angeles cabinet shop.
+* [Wood Record](https://woodrecord.com/) - Free database of 1,785 wood species with sourced Janka hardness, density and strength values, side-by-side comparisons and board-foot calculators
 
 ## Buying & Selling
 * [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
