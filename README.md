@@ -38,6 +38,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - A free and open source  slicer application to prepare 3D models for 3D printing by Prusa, fully compatible with printers from other manufacturers.
 
 ### Helpful Software
+* [Infillery](https://infillery.com) - Browser-based builders for personalised 3D-printable designs with live previews and multicolour 3MF export.
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser
 * [OpenSCAD](https://www.openscad.org/) - free and open source software script-only application for creating solid 3D CAD objects
