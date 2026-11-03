@@ -31,6 +31,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
 * [Printables (formerly PrusaPrinters)](https://www.printables.com/) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
 * [yeggi](https://www.yeggi.com/) - A meta search engine for 3d-printable models.
+* [FreeSTLFiles](https://freestlfiles.online/) - Free community repository for 3D printable STL models & tabletop miniatures
 
 ### Slicer & Control Software
 * [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
