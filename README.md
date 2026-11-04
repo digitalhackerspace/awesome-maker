@@ -18,13 +18,13 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
 * [Crowdsupply](https://www.crowdsupply.com/) - Kickstarter for makers
 * [GroupGets](https://groupgets.com/) - Crowdfunding campaigns for bulk orders
+* [Sticker Printer Hub](https://stickerprinterhub.com/) - Independent sticker printer comparisons with sourced supply costs, a cost-per-sheet calculator and a free 4x7 sticker sheet layout tool.
 
 ## Electronics
 ### EDA & CAD Software
 * [FreeCAD](https://www.freecadweb.org/) - A FOSS multiplatform 3D parametric modeler
 * [Fritzing](https://fritzing.org/) - A free and open-source initiative to develop amateur or hobby CAD software for the design of electronics hardware
 * [KiCad](https://kicad.org/) - A free and open source cross platform electronics design automation suite
-* [Sticker Printer Hub](https://stickerprinterhub.com/) - Independent sticker printer comparisons with sourced supply costs, a cost-per-sheet calculator and a free 4x7 sticker sheet layout tool.
 
 ## 3D Printing
 ### Models
