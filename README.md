@@ -18,6 +18,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
 * [Crowdsupply](https://www.crowdsupply.com/) - Kickstarter for makers
 * [GroupGets](https://groupgets.com/) - Crowdfunding campaigns for bulk orders
+* [Sticker Printer Hub](https://stickerprinterhub.com/) - Independent sticker printer comparisons with sourced supply costs, a cost-per-sheet calculator and a free 4x7 sticker sheet layout tool.
 
 ## Electronics
 ### EDA & CAD Software
