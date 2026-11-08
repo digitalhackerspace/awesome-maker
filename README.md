@@ -9,6 +9,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Electromaker](https://www.electromaker.io/) - A community-driven project directory and blog posts
 
 ## Knowledge
+* [Calculation Hub Ohm's Law Calculator](https://calculation-hub.com/electricity/ohms-law) - Free educational voltage, current, resistance and power calculations for simple ohmic circuits; not electrical-safety or design certification.
 * [MagPI](https://www.raspberrypi.org/magpi-issues/) - A free (and official) archive of all MagPI issues as PDF
 * [Hackspace](https://hackspace.raspberrypi.org/issues) - A free (and official) archive of all Hackspace issues as PDF
 * [DIYODE](https://diyodemag.com/issues) - archive of DIYODE issues (paid)
