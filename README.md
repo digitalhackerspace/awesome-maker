@@ -18,6 +18,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
 * [Crowdsupply](https://www.crowdsupply.com/) - Kickstarter for makers
 * [GroupGets](https://groupgets.com/) - Crowdfunding campaigns for bulk orders
+* [PlushSource](https://plushsource.com) - Directory of custom plush manufacturers with their stated minimum order quantities, sampling times and accepted artwork types, for makers who want a plush design produced
 
 ## Electronics
 ### EDA & CAD Software
