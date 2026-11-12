@@ -42,6 +42,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser
 * [OpenSCAD](https://www.openscad.org/) - free and open source software script-only application for creating solid 3D CAD objects
 * [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
+* [nopekit](https://github.com/neuman/nopekit) - Open-source Claude Code plugin that checks printed-part designs before you print: watertight mesh, wall thickness, bed fit, overhangs, bridging, layer direction, plus beam and thermal checks
 
 ### Troubleshooting
 * [Matterhackers Troubleshooting Guide](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide) - A general 3D printing troubleshooting guide
