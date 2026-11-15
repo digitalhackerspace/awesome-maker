@@ -1,6 +1,7 @@
 # Awesome Maker [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) Resources. Come chat with us on [Discord](https://discord.gg/WZyyYtA)
+A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) Resources. Come chat with us on [Discord](https://discord.gg/WZyyYtA)  
+Self-promotional submissions are only accepted if they are already established and provide actual community-value. 
 
 ## Projects
 * [Instructables](https://www.instructables.com/) - Many tutorials on nearly every topic
