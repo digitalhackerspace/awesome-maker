@@ -17,6 +17,7 @@ Self-promotional submissions are only accepted if they are already established a
 * [Wood Record](https://woodrecord.com/) - Free database of 1,785 wood species with sourced Janka hardness, density and strength values, side-by-side comparisons and board-foot calculators
 
 ## Buying & Selling
+* [Lectronz](https://lectronz.com/) - The marketplace for makers, supporting open-source hardware creators
 * [Tindie](https://www.tindie.com/) - A marketplace for makers to sell their projects
 * [Crowdsupply](https://www.crowdsupply.com/) - Kickstarter for makers
 * [GroupGets](https://groupgets.com/) - Crowdfunding campaigns for bulk orders
