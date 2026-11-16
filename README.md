@@ -7,12 +7,10 @@ Self-promotional submissions are only accepted if they are already established a
 * [Instructables](https://www.instructables.com/) - Many tutorials on nearly every topic
 * [hackster](https://www.hackster.io/projects) - A community-driven project directory
 * [hackaday](https://hackaday.io/lists) - A community-driven project directory
-* [Electromaker](https://www.electromaker.io/) - A community-driven project directory and blog posts
 
 ## Knowledge
-* [MagPI](https://www.raspberrypi.org/magpi-issues/) - A free (and official) archive of all MagPI issues as PDF
+* [MagPI](https://magazine.raspberrypi.com/issues) - The official archive of all MagPI issues as PDF (click on issue and then "free PDF download")
 * [Hackspace](https://hackspace.raspberrypi.org/issues) - A free (and official) archive of all Hackspace issues as PDF
-* [DIYODE](https://diyodemag.com/issues) - archive of DIYODE issues (paid)
 * [Woodwiki](https://www.woodwiki.org/) - Free woodworking education wiki: ~230 guides on hand tools, power tools, joinery, finishing, and wood species. Evidence-driven, no affiliate links, maintained by a Los Angeles cabinet shop.
 * [Wood Record](https://woodrecord.com/) - Free database of 1,785 wood species with sourced Janka hardness, density and strength values, side-by-side comparisons and board-foot calculators
 
@@ -31,17 +29,21 @@ Self-promotional submissions are only accepted if they are already established a
 ## 3D Printing
 ### Models
 * [Thingiverse](https://www.thingiverse.com/) - The biggest site for 3d printable models
+* [MakerWorld](https://makerworld.com/) - A community platform for sharing and downloading 3D-printable models
 * [MyMiniFactory](https://www.myminifactory.com/) - A newer & more modern page for 3d models
 * [Printables (formerly PrusaPrinters)](https://www.printables.com/) - New 3d Model Registry by Josef Prusa optimized for Prusa 3D Printers
 * [yeggi](https://www.yeggi.com/) - A meta search engine for 3d-printable models.
 
 ### Slicer & Control Software
 * [OctoPrint](https://github.com/foosel/OctoPrint) - A web-interface for 3D Printing
+* [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - An open-source slicer for generating G-code for a wide range of 3D printers
 * [Ultimaker Cura](https://github.com/Ultimaker/Cura) - A free and open source  slicer application to prepare 3D models for 3D printing
 * [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - A free and open source  slicer application to prepare 3D models for 3D printing by Prusa, fully compatible with printers from other manufacturers.
 
 ### Helpful Software
+* [3D Print STL Viewer](https://giga.tools/data-tools/3d-print-stl-viewer) - View and inspect STL files in your browser
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
+* [SolidCraft](https://github.com/tangency-labs/solidcraft) - An open-source parametric 3D CAD app for desktop and browser
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser
 * [OpenSCAD](https://www.openscad.org/) - free and open source software script-only application for creating solid 3D CAD objects
 * [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
