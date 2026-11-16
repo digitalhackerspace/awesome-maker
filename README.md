@@ -26,6 +26,7 @@ Self-promotional submissions are only accepted if they are already established a
 * [FreeCAD](https://www.freecadweb.org/) - A FOSS multiplatform 3D parametric modeler
 * [Fritzing](https://fritzing.org/) - A free and open-source initiative to develop amateur or hobby CAD software for the design of electronics hardware
 * [KiCad](https://kicad.org/) - A free and open source cross platform electronics design automation suite
+* [SolidCraft CAD](https://solidcraftcad.com/) - A free, browser-based parametric CAD tool for sketching and 3D modeling with no install required
 
 ## 3D Printing
 ### Models
