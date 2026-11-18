@@ -57,6 +57,8 @@ Self-promotional submissions are only accepted if they are already established a
 ### Controlling Software
 * [GRBLWeb](https://github.com/andrewhodel/grblweb) - A web-interface for CNC milling
 * [CNC.js](https://github.com/cncjs/cncjs) - A web-interface for CNC milling
+### Nesting Software
+* [Kenzap Nesting](https://github.com/kenzap/nesting-app) - Free desktop app for nesting DXF parts on sheets to reduce material waste
 
 ## YouTube Channels
 * [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Electronic projects, reviews and tutorials
