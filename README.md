@@ -39,6 +39,7 @@ Self-promotional submissions are only accepted if they are already established a
 * [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - An open-source slicer for generating G-code for a wide range of 3D printers
 * [Ultimaker Cura](https://github.com/Ultimaker/Cura) - A free and open source  slicer application to prepare 3D models for 3D printing
 * [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - A free and open source  slicer application to prepare 3D models for 3D printing by Prusa, fully compatible with printers from other manufacturers.
+* [SimplyPrint](https://simplyprint.io/) - A cloud-based platform for remote monitoring, management, and automation of 3D printers.
 
 ### Helpful Software
 * [3D Print STL Viewer](https://giga.tools/data-tools/3d-print-stl-viewer) - View and inspect STL files in your browser
@@ -47,6 +48,7 @@ Self-promotional submissions are only accepted if they are already established a
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser
 * [OpenSCAD](https://www.openscad.org/) - free and open source software script-only application for creating solid 3D CAD objects
 * [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
+* [Open Filament Database](https://github.com/OpenFilamentCollective/open-filament-database) - A community-driven open database of 3D printing filament materials and their properties.
 
 ### Troubleshooting
 * [Matterhackers Troubleshooting Guide](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide) - A general 3D printing troubleshooting guide
