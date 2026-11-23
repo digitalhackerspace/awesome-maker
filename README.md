@@ -42,6 +42,7 @@ Self-promotional submissions are only accepted if they are already established a
 
 ### Helpful Software
 * [3D Print STL Viewer](https://giga.tools/data-tools/3d-print-stl-viewer) - View and inspect STL files in your browser
+* [mesh2cad](https://github.com/emirmrkaljevic/mesh2cad) - Turn an STL of a simple mechanical part back into editable CadQuery, OpenSCAD or FreeCAD code and STEP
 * [Meshroom](https://github.com/alicevision/meshroom) - Open-source 3D Reconstruction Software, to create 3d models from Pictures
 * [SolidCraft](https://github.com/tangency-labs/solidcraft) - An open-source parametric 3D CAD app for desktop and browser
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser
