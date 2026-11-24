@@ -47,6 +47,7 @@ Self-promotional submissions are only accepted if they are already established a
 * [TinkerCAD](https://www.tinkercad.com/) - A simple-to-use 3D modeling software in your browser
 * [OpenSCAD](https://www.openscad.org/) - free and open source software script-only application for creating solid 3D CAD objects
 * [Terrain2STL](http://jthatch.com/Terrain2STL/) - Convert real-world map data to 3D-printable STLs
+* [STLPal](https://stlpal.com/) - Free in-browser tools to resize, repair and convert STL, 3MF, OBJ and GLB files, with files processed locally
 
 ### Troubleshooting
 * [Matterhackers Troubleshooting Guide](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide) - A general 3D printing troubleshooting guide
